@@ -1,0 +1,14 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	An empty metadata file is created that gives you the ability to:
+	* create commits
+	* track commits
+
+	You do it so the computer knows where and what files to include.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	It's different from the working directory in that it contains files meant to go in the repository.
+	It's different from the repository because the files/changes aren't there *yet*.
+	It lets you save your changes without adding them all at once.
+	It lets you commit rational chunks.
