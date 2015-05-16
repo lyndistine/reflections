@@ -12,3 +12,7 @@ How is the staging area different from the working directory and the repository?
 	It's different from the repository because the files/changes aren't there *yet*.
 	It lets you save your changes without adding them all at once.
 	It lets you commit rational chunks.
+
+How can you use the staging area to make sure you have on commit per logical change?
+
+	By comparing it to both the most recent commit and the working directory.
