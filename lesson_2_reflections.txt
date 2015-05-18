@@ -21,3 +21,18 @@ What are some situations when branches would be helpful in keeping your history 
 
 	Branches let you experiment without concern for the state of your main project.
 	I could use this to write my new tests.
+
+How do the diagrams help you visualize the branch structure?
+
+	It helps you keep track of both where you are, and where you'll want to be heading eventually.
+	It also helps avoid losing work to unreachable commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The result is a combined history of both branches.
+	The diagram represents the different paths the code took to reach its final state.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+	Pros include that changes are always caught.
+	Cons are that changes might not be a big deal.
