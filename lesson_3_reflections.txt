@@ -1,1 +1,3 @@
+When would you want to use a reomore repository rather than keeping all your work local?
 
+  When working with multiple people, especially if you're not all in the same location.
