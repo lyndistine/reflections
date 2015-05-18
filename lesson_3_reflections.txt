@@ -1,3 +1,7 @@
 When would you want to use a reomore repository rather than keeping all your work local?
 
   When working with multiple people, especially if you're not all in the same location.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-todate with your remote repository?
+
+	When you're working in a large group, you may want the time to work on a stable version, without concern for pushes from others derailing your work.
